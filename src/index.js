@@ -7,7 +7,7 @@ import isEqualApprox from 'is-equal-approx';
 const errOf = (data, comp, shouldPass, name) => `
 
 Check your source code or test,
-It Should${shouldPass ? ' ' : ' not '}pass the '${name}' function ~
+It Should${shouldPass ? ' ' : ' NOT '}pass the '${name}' function ~
     -------- your data:
 ${JSON.stringify(data)}
     -------- compared data:
