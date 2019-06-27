@@ -6,7 +6,7 @@ const {
     checkError,
     VOID,
     ANY,
-} = require('../dist/index.cjs');
+} = require('../dist');
 
 describe('simple test for api call', () => {
     it('wont crash', () => {
