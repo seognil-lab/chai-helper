@@ -1,6 +1,6 @@
 {
     "name": "@seognil-lab/chai-helper",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "main": "dist/index.js",
     "module": "src/index.js",
     "license": "MIT",
